@@ -1,0 +1,28 @@
+{
+  "name": "learn_webpack_babel_jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-loader": "^8.1.0",
+    "jquery": "^3.5.1",
+    "webpack-cli": "^3.3.12",
+    "webpack": "^4.43.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goattoken510/learn_webpack_babel_jquery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goattoken510/learn_webpack_babel_jquery/issues"
+  },
+  "homepage": "https://github.com/goattoken510/learn_webpack_babel_jquery#readme",
+  "private": true
+}
